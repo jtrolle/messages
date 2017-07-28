@@ -1,12 +1,14 @@
 
 ## Installation
 
+```
 npm install
 npm start
+```
 
 ## Dépendances
 
-package.json
+`package.json`
 
 * material-ui
 * react
@@ -24,8 +26,8 @@ package.json
 
 ## Actions
 
-./actions/messages.js
+`./actions/messages.js`
 
-fetchMessages : récupération des message à partir du fichier de fixture
+fetchMessages : récupération des messages à partir du fichier de `fixtures.js`
 
 createMessage : ajout d'un message dans la liste de messages
